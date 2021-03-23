@@ -31,4 +31,7 @@ public class Calculator {
 	public static void master1(int num){
 		System.out.println(num*num*num);
 	}
+	public static void br1(int num){
+		System.out.println(num*num*num);
+	}
 }
