@@ -25,4 +25,8 @@ public class Calculator {
 		System.out.println(num1%num2);
 
 	}
+	public static void cube(int num){
+		System.out.println(num*num*num);
+
+	}
 }
