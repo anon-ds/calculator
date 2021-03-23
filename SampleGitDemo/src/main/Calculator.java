@@ -27,6 +27,8 @@ public class Calculator {
 	}
 	public static void cube(int num){
 		System.out.println(num*num*num);
-
+	}
+	public static void master1(int num){
+		System.out.println(num*num*num);
 	}
 }
